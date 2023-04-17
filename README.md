@@ -6,7 +6,7 @@
 
 Extension for PHP 5.x, based on [cracklib](https://github.com/cracklib/cracklib). This 
 version of PHP has been discontinued for a long time and should not be used 
-in production anymore (I doubt that it could compile in any modern Linux, for instance), 
+in production anymore (I doubt that it could compile in any modern Linux, anyway), 
 but the extension could give you some ideas on how to use 
 [cracklib](https://www.linuxfromscratch.org/blfs/view/svn/postlfs/cracklib.html)
 for password validation.
